@@ -1,21 +1,16 @@
 {
   "name": "lodash-debounce-tiny",
-  "version": "1.0.0",
+  "version": "1.0.2",
   "author": "David Bishop",
-  "description": "Debounced function that delays invoking func until after wait milliseconds",
+  "description": "A lightweight alternative to lodash.debounce.",
   "license": "MIT",
   "keywords": [
     "lodash",
     "debounce",
-    "util",
-    "promise",
-    "promises",
-    "resolve",
+    "debouncing",
     "delay",
-    "wait",
-    "javascript",
-    "await",
-    "async"
+    "util",
+    "javascript"
   ],
   "main": "./build/index.js",
   "types": "./build/index.js",
@@ -29,8 +24,7 @@
   "homepage": "https://github.com/dBish6/lodash-debounce-tiny#readme",
   "scripts": {
     "test": "jest",
-    "build": "tsc",
-    "release": "npm publish --access public"
+    "build": "tsc"
   },
   "devDependencies": {
     "@types/jest": "^29.5.12",
