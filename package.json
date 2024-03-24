@@ -1,6 +1,6 @@
 {
   "name": "lodash-debounce-tiny",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "author": "David Bishop",
   "description": "A lightweight alternative to lodash.debounce.",
   "license": "MIT",
@@ -13,7 +13,7 @@
     "javascript"
   ],
   "main": "./build/index.js",
-  "types": "./build/index.js",
+  "types": "./build/index.d.ts",
   "repository": {
     "type": "git",
     "url": "git+https://github.com/dBish6/lodash-debounce-tiny.git"

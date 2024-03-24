@@ -1,2 +1,5 @@
 v1.0.2
 - README added.
+
+v1.0.3
+- types path fix.
