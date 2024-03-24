@@ -33,7 +33,7 @@ $ npm run dev
 ```
 
 ## License
-This project is licensed under the [MIT](https://github.com/dBish6/detect-if-mobile/blob/master/LICENSE) License.
+This project is licensed under the [MIT](https://github.com/dBish6/lodash-debounce-tiny/blob/master/LICENSE) License.
 
 ## Support Me
 If you find this package helpful consider buying me a coffee, your support helps me stay motivated!
