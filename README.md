@@ -1,4 +1,4 @@
-# lodash-debounce-tiny NPM Package
+# lodash-debounce-tiny
 A lightweight alternative to lodash.debounce. This utility doesn't include all the bloat from lodash.debounce, all it does is delay invoking a function call until after the provided milliseconds.
 
 ## Installation
